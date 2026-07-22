@@ -1,0 +1,7 @@
+OF1,CS201,Computer Programming,3 hours,Software Engineering,1st,B,F001
+OF2,CS203,Computing Fundamentals,3,SE,Fall-2025,B,F002
+OF3,CS204,Linear Algebra,3 ,SE,Spring-2026,B,F003
+OF4,CLS-10,Discrete Structures,3,SE,Spring-2026,B,F004
+OF5,CLS-09,Applied Physics,3,SE,Fall-2025,B,F004
+OF6,CLS-8,Applied Calculus,3,SE,Fall-2025,B,F002
+OF7,CLS-7,OOP,3,SE,Spring-2026,B,F005

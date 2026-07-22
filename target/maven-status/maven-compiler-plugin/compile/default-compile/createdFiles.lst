@@ -1,0 +1,9 @@
+com\mycompany\universityportal\Faculty.class
+com\mycompany\universityportal\Student.class
+com\mycompany\universityportal\Marks.class
+com\mycompany\universityportal\Attendance.class
+com\mycompany\universityportal\UniversityPortal.class
+com\mycompany\universityportal\Admin.class
+Student.class
+Teacher.class
+com\mycompany\universityportal\Course.class
